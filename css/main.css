@@ -1,4 +1,13 @@
-div{
+/* .google-img{
     display: flex;
     justify-content: center;
+} */
+
+.google-img{
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
 }
+
